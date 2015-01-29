@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="2049"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="337" y="35" type="line" name="hr01"/>
+      <point x="337" y="1452" type="line"/>
+      <point x="514" y="1452" type="line"/>
+      <point x="514" y="1530" type="line"/>
+      <point x="60" y="1530" type="line"/>
+      <point x="60" y="1452" type="line"/>
+      <point x="246" y="1452" type="line"/>
+      <point x="246" y="35" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="78" type="line"/>
+      <point x="62" y="0" type="line" name="hr02"/>
+      <point x="518" y="0" type="line"/>
+      <point x="518" y="78" type="line" name="hr03"/>
+    </contour>
+    <contour>
+      <point x="1339" y="78" type="line"/>
+      <point x="1339" y="0" type="line" name="hr04"/>
+      <point x="2004" y="0" type="line"/>
+      <point x="2004" y="78" type="line" name="hr05"/>
+    </contour>
+    <contour>
+      <point x="1521" y="59" type="line"/>
+      <point x="1791" y="59" type="line"/>
+      <point x="1791" y="1502" type="line"/>
+      <point x="1522" y="1501" type="line"/>
+    </contour>
+    <contour>
+      <point x="1481" y="1530" type="line" name="hr06"/>
+      <point x="1522" y="1452" type="line"/>
+      <point x="1986" y="1452" type="line"/>
+      <point x="1986" y="1530" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="1501" type="line" name="hr07"/>
+      <point x="926" y="21" type="line"/>
+      <point x="1064" y="343" type="line"/>
+      <point x="582" y="1530" type="line" name="hr08"/>
+      <point x="514" y="1530" type="line"/>
+    </contour>
+    <contour>
+      <point x="1481" y="1530" type="line"/>
+      <point x="1004" y="344" type="line"/>
+      <point x="926" y="21" type="line"/>
+      <point x="966" y="21" type="line"/>
+      <point x="1562" y="1509" type="line" name="hr09"/>
+    </contour>
+    <contour>
+      <point x="1022" y="1600" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>2021</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjU5IiB3aWR0aD0iMTkiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjE0NTIiIHdpZHRoPSI3OCIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMjQ2IiB3aWR0aD0i
+OTEiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE1MjEi
+IHdpZHRoPSIyNjkiIC8+CiAgICA8L2hpbnRzZXQ+
+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+
+CiAgICAgIDxoc3RlbSBwb3M9IjAiIHdpZHRoPSI3
+OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjQ2IiB3
+aWR0aD0iOTEiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
+ICA8aGludHNldCBwb2ludFRhZz0iaHIwMyI+CiAg
+ICAgIDxoc3RlbSBwb3M9IjU5IiB3aWR0aD0iMTki
+IC8+CiAgICAgIDx2c3RlbSBwb3M9IjI0NiIgd2lk
+dGg9IjkxIiAvPgogICAgPC9oaW50c2V0PgogICAg
+PGhpbnRzZXQgcG9pbnRUYWc9ImhyMDQiPgogICAg
+ICA8aHN0ZW0gcG9zPSIwIiB3aWR0aD0iNzgiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjE1MjEiIHdpZHRo
+PSIyNjkiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8
+aGludHNldCBwb2ludFRhZz0iaHIwNSI+CiAgICAg
+IDxoc3RlbSBwb3M9IjU5IiB3aWR0aD0iMTkiIC8+
+CiAgICAgIDxoc3RlbSBwb3M9IjE0NTIiIHdpZHRo
+PSI0OSIgLz4KICAgICAgPHZzdGVtIHBvcz0iMTUy
+MSIgd2lkdGg9IjI2OSIgLz4KICAgIDwvaGludHNl
+dD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA2
+Ij4KICAgICAgPGhzdGVtIHBvcz0iMTQ1MiIgd2lk
+dGg9Ijc4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIy
+NDYiIHdpZHRoPSI5MSIgLz4KICAgIDwvaGludHNl
+dD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA3
+Ij4KICAgICAgPGhzdGVtIHBvcz0iMTUwMSIgd2lk
+dGg9IjI5IiAvPgogICAgICA8dnN0ZW0gcG9zPSIy
+NDYiIHdpZHRoPSI5MSIgLz4KICAgIDwvaGludHNl
+dD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA4
+Ij4KICAgICAgPGhzdGVtIHBvcz0iMTQ1MiIgd2lk
+dGg9Ijc4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIx
+NTIxIiB3aWR0aD0iMjY5IiAvPgogICAgPC9oaW50
+c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9Imhy
+MDkiPgogICAgICA8aHN0ZW0gcG9zPSIxNTA5IiB3
+aWR0aD0iMjEiIC8+CiAgICAgIDx2c3RlbSBwb3M9
+IjE1MjEiIHdpZHRoPSIyNjkiIC8+CiAgICA8L2hp
+bnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

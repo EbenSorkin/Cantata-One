@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="1712"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="893" y="238" type="line" name="hr00"/>
+      <point x="893" y="174" type="line"/>
+      <point x="1218" y="174" type="line"/>
+      <point x="1218" y="58" type="line"/>
+      <point x="1085" y="58" type="line"/>
+      <point x="1085" y="-1" type="line"/>
+      <point x="1522" y="-1" type="line"/>
+      <point x="1522" y="58" type="line"/>
+      <point x="1404" y="58" type="line"/>
+      <point x="1404" y="174" type="line"/>
+      <point x="1510" y="174" type="line"/>
+      <point x="1542" y="238" type="line"/>
+      <point x="1405" y="238" type="line"/>
+      <point x="1405" y="719" type="line"/>
+      <point x="1245" y="719" type="line"/>
+    </contour>
+    <contour>
+      <point x="975" y="238" type="line"/>
+      <point x="1289" y="669" type="line"/>
+      <point x="1218" y="670" type="line"/>
+      <point x="1218" y="238" type="line"/>
+    </contour>
+    <component base="threesuperior" xOffset="34" yOffset="-149"/>
+    <component base="fraction" xOffset="4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0xIiB3aWR0aD0iNTkiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjE3NCIgd2lkdGg9IjY0IiAvPgog
+ICAgICA8aHN0ZW0gcG9zPSI2NjkiIHdpZHRoPSI1
+MCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMTIxOCIg
+d2lkdGg9IjE4NyIgLz4KICAgIDwvaGludHNldD4K
+ICA8L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

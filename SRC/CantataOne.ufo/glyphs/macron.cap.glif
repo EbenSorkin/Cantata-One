@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.cap" format="1">
+  <advance width="682"/>
+  <outline>
+    <contour>
+      <point x="13" y="1890" type="line" name="hr00"/>
+      <point x="670" y="1890" type="line"/>
+      <point x="670" y="2013" type="line"/>
+      <point x="13" y="2013" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="1600" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjE4NzAiIHdpZHRoPSIxMjMiIC8+CiAgICAg
+IDx2c3RlbSBwb3M9IjEzIiB3aWR0aD0iNjU3IiAv
+PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExp
+c3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

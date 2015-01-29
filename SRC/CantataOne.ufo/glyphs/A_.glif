@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1534"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="969" y="78" type="line" name="hr01"/>
+      <point x="969" y="0" type="line"/>
+      <point x="1514" y="0" type="line"/>
+      <point x="1514" y="78" type="line"/>
+    </contour>
+    <contour>
+      <point x="620" y="1292" type="line"/>
+      <point x="1142" y="22" type="line" name="hr02"/>
+      <point x="1421" y="58" type="line"/>
+      <point x="809" y="1530" type="line"/>
+      <point x="693" y="1530" type="line"/>
+      <point x="125" y="66" type="line" name="hr03"/>
+      <point x="220" y="35" type="line"/>
+      <point x="705" y="1317" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="505" type="line"/>
+      <point x="349" y="427" type="line"/>
+      <point x="1031" y="427" type="line"/>
+      <point x="1031" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="21" y="78" type="line" name="hr04"/>
+      <point x="21" y="0" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="416" y="78" type="line"/>
+    </contour>
+    <contour>
+      <point x="1520" y="0" type="move" name="og"/>
+    </contour>
+    <contour>
+      <point x="755" y="1600" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>2029</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSI3OCIgLz4KICAgICAgPGhz
+dGVtIHBvcz0iNDI3IiB3aWR0aD0iNzgiIC8+CiAg
+ICAgIDxoc3RlbSBwb3M9IjE1MzAiIHdpZHRoPSIt
+MjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjIxIiB3
+aWR0aD0iMTQ5MyIgLz4KICAgIDwvaGludHNldD4K
+ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAyIj4K
+ICAgICAgPGhzdGVtIHBvcz0iNTgiIHdpZHRoPSIy
+MCIgLz4KICAgICAgPGhzdGVtIHBvcz0iNDI3IiB3
+aWR0aD0iNzgiIC8+CiAgICAgIDxoc3RlbSBwb3M9
+IjE1MzAiIHdpZHRoPSItMjAiIC8+CiAgICAgIDx2
+c3RlbSBwb3M9IjIxIiB3aWR0aD0iMTQ5MyIgLz4K
+ICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBv
+aW50VGFnPSJocjAzIj4KICAgICAgPGhzdGVtIHBv
+cz0iNjYiIHdpZHRoPSIxMiIgLz4KICAgICAgPGhz
+dGVtIHBvcz0iNDI3IiB3aWR0aD0iNzgiIC8+CiAg
+ICAgIDxoc3RlbSBwb3M9IjE1MzAiIHdpZHRoPSIt
+MjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjIxIiB3
+aWR0aD0iMTQ5MyIgLz4KICAgIDwvaGludHNldD4K
+ICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjA0Ij4K
+ICAgICAgPGhzdGVtIHBvcz0iMCIgd2lkdGg9Ijc4
+IiAvPgogICAgICA8aHN0ZW0gcG9zPSI0MjciIHdp
+ZHRoPSI3OCIgLz4KICAgICAgPGhzdGVtIHBvcz0i
+MTUzMCIgd2lkdGg9Ii0yMCIgLz4KICAgICAgPHZz
+dGVtIHBvcz0iMjEiIHdpZHRoPSIxNDkzIiAvPgog
+ICAgPC9oaW50c2V0PgogIDwvaGludFNldExpc3Q+
+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

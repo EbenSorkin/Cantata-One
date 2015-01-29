@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="1">
+  <advance width="854"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="508" y="1485" type="curve" smooth="yes" name="hr01"/>
+      <point x="508" y="1292"/>
+      <point x="309" y="1147"/>
+      <point x="153" y="1018" type="curve"/>
+      <point x="153" y="963" type="line"/>
+      <point x="719" y="963" type="line" name="hr02"/>
+      <point x="719" y="1170" type="line"/>
+      <point x="667" y="1170" type="line"/>
+      <point x="663" y="1146"/>
+      <point x="652" y="1102"/>
+      <point x="610" y="1102" type="curve" smooth="yes"/>
+      <point x="330" y="1102" type="line"/>
+      <point x="563" y="1241"/>
+      <point x="683" y="1351"/>
+      <point x="683" y="1476" type="curve" smooth="yes" name="hr03"/>
+      <point x="683" y="1639"/>
+      <point x="550" y="1694"/>
+      <point x="401" y="1694" type="curve" smooth="yes"/>
+      <point x="302" y="1694"/>
+      <point x="147" y="1654"/>
+      <point x="147" y="1538" type="curve" smooth="yes"/>
+      <point x="147" y="1498"/>
+      <point x="174" y="1453"/>
+      <point x="242" y="1453" type="curve" smooth="yes" name="hr04"/>
+      <point x="299" y="1453"/>
+      <point x="328" y="1504"/>
+      <point x="328" y="1543" type="curve" smooth="yes"/>
+      <point x="328" y="1596"/>
+      <point x="284" y="1623"/>
+      <point x="242" y="1620" type="curve"/>
+      <point x="251" y="1590" type="line" name="hr05"/>
+      <point x="279" y="1620"/>
+      <point x="324" y="1633"/>
+      <point x="371" y="1633" type="curve" smooth="yes"/>
+      <point x="443" y="1633"/>
+      <point x="508" y="1586"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1045</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1696</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ijk2MyIgd2lkdGg9IjEzOSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iMTYzMyIgd2lkdGg9IjYxIiAv
+PgogICAgICA8dnN0ZW0gcG9zPSI1MDgiIHdpZHRo
+PSIxNzUiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8
+aGludHNldCBwb2ludFRhZz0iaHIwMiI+CiAgICAg
+IDxoc3RlbSBwb3M9Ijk2MyIgd2lkdGg9IjEzOSIg
+Lz4KICAgICAgPGhzdGVtIHBvcz0iMTYzMyIgd2lk
+dGg9IjYxIiAvPgogICAgICA8dnN0ZW0gcG9zPSI2
+NjciIHdpZHRoPSI1MiIgLz4KICAgIDwvaGludHNl
+dD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJocjAz
+Ij4KICAgICAgPGhzdGVtIHBvcz0iOTYzIiB3aWR0
+aD0iMTM5IiAvPgogICAgICA8aHN0ZW0gcG9zPSIx
+NjMzIiB3aWR0aD0iNjEiIC8+CiAgICAgIDx2c3Rl
+bSBwb3M9IjE0NyIgd2lkdGg9IjE4MSIgLz4KICAg
+ICAgPHZzdGVtIHBvcz0iNTA4IiB3aWR0aD0iMTc1
+IiAvPgogICAgPC9oaW50c2V0PgogICAgPGhpbnRz
+ZXQgcG9pbnRUYWc9ImhyMDQiPgogICAgICA8aHN0
+ZW0gcG9zPSI5NjMiIHdpZHRoPSIxMzkiIC8+CiAg
+ICAgIDxoc3RlbSBwb3M9IjE0NTMiIHdpZHRoPSIx
+NjciIC8+CiAgICAgIDxoc3RlbSBwb3M9IjE2MzMi
+IHdpZHRoPSI2MSIgLz4KICAgICAgPHZzdGVtIHBv
+cz0iMTQ3IiB3aWR0aD0iMTgxIiAvPgogICAgICA8
+dnN0ZW0gcG9zPSI2NjciIHdpZHRoPSI1MiIgLz4K
+ICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBv
+aW50VGFnPSJocjA1Ij4KICAgICAgPGhzdGVtIHBv
+cz0iOTYzIiB3aWR0aD0iMTM5IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSIxNjMzIiB3aWR0aD0iNjEiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjE0NyIgd2lkdGg9
+IjE4MSIgLz4KICAgICAgPHZzdGVtIHBvcz0iNjY3
+IiB3aWR0aD0iNTIiIC8+CiAgICA8L2hpbnRzZXQ+
+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwNiI+
+CiAgICAgIDxoc3RlbSBwb3M9Ijk2MyIgd2lkdGg9
+IjEzOSIgLz4KICAgICAgPGhzdGVtIHBvcz0iMTYz
+MyIgd2lkdGg9IjYxIiAvPgogICAgICA8dnN0ZW0g
+cG9zPSI1MDgiIHdpZHRoPSIxNzUiIC8+CiAgICA8
+L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

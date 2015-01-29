@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="1024"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="498" y="1023" type="line" name="hr01"/>
+      <point x="86" y="1023" type="line"/>
+      <point x="86" y="945" type="line"/>
+      <point x="236" y="945" type="line"/>
+      <point x="236" y="77" type="line"/>
+      <point x="87" y="77" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="717" y="0" type="line"/>
+      <point x="717" y="77" type="line"/>
+      <point x="498" y="77" type="line"/>
+    </contour>
+    <contour>
+      <point x="864" y="757" type="curve" smooth="yes"/>
+      <point x="939" y="757"/>
+      <point x="998" y="816"/>
+      <point x="998" y="891" type="curve" smooth="yes"/>
+      <point x="998" y="982"/>
+      <point x="930" y="1040"/>
+      <point x="831" y="1040" type="curve" smooth="yes" name="hr02"/>
+      <point x="672" y="1040"/>
+      <point x="492" y="903"/>
+      <point x="429" y="806" type="curve"/>
+      <point x="429" y="684" type="line"/>
+      <point x="490" y="825"/>
+      <point x="636" y="907"/>
+      <point x="739" y="938" type="curve"/>
+      <point x="734" y="923"/>
+      <point x="731" y="907"/>
+      <point x="731" y="891" type="curve" smooth="yes"/>
+      <point x="731" y="816"/>
+      <point x="789" y="757"/>
+    </contour>
+    <contour>
+      <point x="531" y="1200" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="386" y="-300" type="move" name="btm"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSI3NyIgLz4KICAgICAgPGhz
+dGVtIHBvcz0iOTQ1IiB3aWR0aD0iNzgiIC8+CiAg
+ICAgIDx2c3RlbSBwb3M9IjQyOSIgd2lkdGg9IjY5
+IiAvPgogICAgICA8dnN0ZW0gcG9zPSI3MzEiIHdp
+ZHRoPSIyNjciIC8+CiAgICA8L2hpbnRzZXQ+CiAg
+ICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+CiAg
+ICAgIDxoc3RlbSBwb3M9IjAiIHdpZHRoPSI3NyIg
+Lz4KICAgICAgPGhzdGVtIHBvcz0iMTA0MCIgd2lk
+dGg9Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0i
+NDI5IiB3aWR0aD0iNjkiIC8+CiAgICAgIDx2c3Rl
+bSBwb3M9IjczMSIgd2lkdGg9IjI2NyIgLz4KICAg
+IDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50
+VGFnPSJocjAzIj4KICAgICAgPGhzdGVtIHBvcz0i
+MCIgd2lkdGg9Ijc3IiAvPgogICAgICA8aHN0ZW0g
+cG9zPSI5NDUiIHdpZHRoPSI3OCIgLz4KICAgICAg
+PHZzdGVtIHBvcz0iNDI5IiB3aWR0aD0iNjkiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjczMSIgd2lkdGg9
+IjI2NyIgLz4KICAgIDwvaGludHNldD4KICA8L2hp
+bnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

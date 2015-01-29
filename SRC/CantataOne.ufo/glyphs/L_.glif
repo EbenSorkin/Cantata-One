@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="1367"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="285" y="58" type="line" name="hr01"/>
+      <point x="555" y="58" type="line"/>
+      <point x="555" y="1502" type="line"/>
+      <point x="286" y="1501" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="1530" type="line" name="hr02"/>
+      <point x="118" y="1453" type="line"/>
+      <point x="733" y="1453" type="line"/>
+      <point x="733" y="1530" type="line"/>
+    </contour>
+    <contour>
+      <point x="1279" y="465" type="line"/>
+      <point x="1201" y="465" type="line"/>
+      <point x="1187" y="267"/>
+      <point x="1132" y="78"/>
+      <point x="861" y="78" type="curve" smooth="yes"/>
+      <point x="71" y="79" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="1279" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="730" y="-300" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="423" y="1600" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjU4IiB3aWR0aD0iMjAiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjE0NTMiIHdpZHRoPSI0OCIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMjg1IiB3aWR0aD0i
+MjY5IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxMjAx
+IiB3aWR0aD0iNzgiIC8+CiAgICA8L2hpbnRzZXQ+
+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMiI+
+CiAgICAgIDxoc3RlbSBwb3M9IjAiIHdpZHRoPSI3
+OCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMTQ1MyIg
+d2lkdGg9Ijc3IiAvPgogICAgICA8dnN0ZW0gcG9z
+PSIyODUiIHdpZHRoPSIyNjkiIC8+CiAgICAgIDx2
+c3RlbSBwb3M9IjEyMDEiIHdpZHRoPSI3OCIgLz4K
+ICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0
+Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

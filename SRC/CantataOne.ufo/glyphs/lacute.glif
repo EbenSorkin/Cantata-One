@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute" format="1">
+  <advance width="683"/>
+  <unicode hex="013A"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line" name="hr00"/>
+      <point x="643" y="0" type="line"/>
+      <point x="643" y="78" type="line"/>
+      <point x="481" y="78" type="line"/>
+      <point x="481" y="1504" type="line"/>
+      <point x="54" y="1504" type="line"/>
+      <point x="54" y="1425" type="line"/>
+      <point x="216" y="1425" type="line"/>
+      <point x="216" y="78" type="line"/>
+      <point x="54" y="78" type="line"/>
+    </contour>
+    <component base="acute.cap" xOffset="-381" yOffset="-1"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSI3OCIgLz4KICAgICAgPGhz
+dGVtIHBvcz0iMTQyNSIgd2lkdGg9Ijc5IiAvPgog
+ICAgICA8dnN0ZW0gcG9zPSIyMTYiIHdpZHRoPSIy
+NjUiIC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50
+U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

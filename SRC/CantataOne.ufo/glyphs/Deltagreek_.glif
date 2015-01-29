@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Deltagreek" format="1">
+  <advance width="1613"/>
+  <unicode hex="0394"/>
+  <outline>
+    <component base="Delta"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0ibHNiIj4KICAgICAgPGhzdGVtIHBv
+cz0iMCIgd2lkdGg9Ijc4IiAvPgogICAgICA8aHN0
+ZW0gcG9zPSIzOSIgd2lkdGg9IjM5IiAvPgogICAg
+ICA8aHN0ZW0gcG9zPSIxNTMwIiB3aWR0aD0iLTIw
+IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxMTUiIHdp
+ZHRoPSIxMzM0IiAvPgogICAgPC9oaW50c2V0Pgog
+IDwvaGludFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegagreek" format="1">
+  <advance width="1877"/>
+  <unicode hex="03A9"/>
+  <outline>
+    <component base="Omega"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>105</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0ibHNiIj4KICAgICAgPGhzdGVtIHBv
+cz0iMCIgd2lkdGg9IjE1NTAiIC8+CiAgICAgIDx2
+c3RlbSBwb3M9Ijg3MSIgd2lkdGg9IjE1NSIgLz4K
+ICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0
+Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

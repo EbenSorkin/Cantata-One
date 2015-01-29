@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft" format="1">
+  <advance width="1194"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="277" y="538" type="line" name="hr00"/>
+      <point x="466" y="649"/>
+      <point x="687" y="790"/>
+      <point x="871" y="956" type="curve"/>
+      <point x="917" y="906" type="line"/>
+      <point x="803" y="748"/>
+      <point x="678" y="620"/>
+      <point x="564" y="499" type="curve"/>
+      <point x="678" y="380"/>
+      <point x="803" y="250"/>
+      <point x="917" y="91" type="curve"/>
+      <point x="871" y="41" type="line"/>
+      <point x="683" y="202"/>
+      <point x="462" y="342"/>
+      <point x="277" y="459" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjQxIiB3aWR0aD0iOTE1IiAvPgogICAgICA8
+dnN0ZW0gcG9zPSIyNzciIHdpZHRoPSI2NDAiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
+dD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

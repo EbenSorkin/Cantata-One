@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="1">
+  <advance width="1707"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="426" y="1453" type="line" name="hr00"/>
+      <point x="473" y="1493" type="line"/>
+      <point x="917" y="840" type="line"/>
+      <point x="295" y="59" type="line"/>
+      <point x="371" y="215" type="line"/>
+      <point x="1142" y="215" type="line" smooth="yes"/>
+      <point x="1244" y="215"/>
+      <point x="1271" y="321"/>
+      <point x="1281" y="378" type="curve"/>
+      <point x="1357" y="378" type="line"/>
+      <point x="1357" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="65" type="line"/>
+      <point x="777" y="790" type="line"/>
+      <point x="729" y="634" type="line"/>
+      <point x="184" y="1433" type="line"/>
+      <point x="184" y="1530" type="line"/>
+      <point x="1351" y="1530" type="line"/>
+      <point x="1351" y="1259" type="line"/>
+      <point x="1275" y="1259" type="line"/>
+      <point x="1265" y="1346"/>
+      <point x="1238" y="1453"/>
+      <point x="1136" y="1453" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1912</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1453</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSIxNTMwIiAvPgogICAgICA8
+dnN0ZW0gcG9zPSIxODQiIHdpZHRoPSIxMTczIiAv
+PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExp
+c3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

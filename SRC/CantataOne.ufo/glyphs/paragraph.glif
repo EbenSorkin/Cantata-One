@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph" format="1">
+  <advance width="1707"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="804" y="1684" type="line" name="hr01"/>
+      <point x="768" y="1606" type="line"/>
+      <point x="1520" y="1606" type="line"/>
+      <point x="1520" y="1684" type="line"/>
+    </contour>
+    <contour>
+      <point x="1189" y="-302" type="line"/>
+      <point x="1349" y="-302" type="line"/>
+      <point x="1349" y="1655" type="line" name="hr02"/>
+      <point x="1190" y="1655" type="line"/>
+    </contour>
+    <contour>
+      <point x="804" y="1684" type="line" name="hr03"/>
+      <point x="470" y="1684"/>
+      <point x="220" y="1513"/>
+      <point x="220" y="1176" type="curve" smooth="yes"/>
+      <point x="220" y="870"/>
+      <point x="436" y="666"/>
+      <point x="804" y="666" type="curve"/>
+    </contour>
+    <contour>
+      <point x="798" y="-302" type="line" name="hr04"/>
+      <point x="958" y="-302" type="line"/>
+      <point x="958" y="1655" type="line"/>
+      <point x="799" y="1655" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>-609</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>-530</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>1471</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjE2MDYiIHdpZHRoPSI3OCIgLz4KICAgICAg
+PHZzdGVtIHBvcz0iNzY4IiB3aWR0aD0iMzYiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjExODkiIHdpZHRo
+PSIxNTkiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8
+aGludHNldCBwb2ludFRhZz0iaHIwMiI+CiAgICAg
+IDxoc3RlbSBwb3M9IjE2MDYiIHdpZHRoPSI0OSIg
+Lz4KICAgICAgPHZzdGVtIHBvcz0iNzk4IiB3aWR0
+aD0iMTU5IiAvPgogICAgICA8dnN0ZW0gcG9zPSIx
+MTg5IiB3aWR0aD0iMTU5IiAvPgogICAgPC9oaW50
+c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9Imhy
+MDMiPgogICAgICA8aHN0ZW0gcG9zPSIxNjA2IiB3
+aWR0aD0iNzgiIC8+CiAgICAgIDx2c3RlbSBwb3M9
+Ijc2OCIgd2lkdGg9IjM2IiAvPgogICAgICA8dnN0
+ZW0gcG9zPSIxMTg5IiB3aWR0aD0iMTU5IiAvPgog
+ICAgPC9oaW50c2V0PgogICAgPGhpbnRzZXQgcG9p
+bnRUYWc9ImhyMDQiPgogICAgICA8aHN0ZW0gcG9z
+PSIxNjA2IiB3aWR0aD0iNDkiIC8+CiAgICAgIDx2
+c3RlbSBwb3M9Ijc5OCIgd2lkdGg9IjE1OSIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMTE4OSIgd2lkdGg9
+IjE1OSIgLz4KICAgIDwvaGludHNldD4KICA8L2hp
+bnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

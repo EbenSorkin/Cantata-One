@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="1">
+  <advance width="1538"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="140" y="117" type="line" name="hr00"/>
+      <point x="1123" y="1496" type="line"/>
+      <point x="1210" y="1452" type="line"/>
+      <point x="646" y="1452" type="line" smooth="yes"/>
+      <point x="376" y="1452"/>
+      <point x="323" y="1343"/>
+      <point x="304" y="1091" type="curve"/>
+      <point x="212" y="1091" type="line"/>
+      <point x="212" y="1530" type="line"/>
+      <point x="1375" y="1530" type="line"/>
+      <point x="1375" y="1415" type="line"/>
+      <point x="411" y="40" type="line"/>
+      <point x="382" y="78" type="line"/>
+      <point x="1010" y="78" type="line" smooth="yes"/>
+      <point x="1291" y="78"/>
+      <point x="1314" y="229"/>
+      <point x="1320" y="437" type="curve"/>
+      <point x="1413" y="437" type="line"/>
+      <point x="1413" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="804" y="1600" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSIxNTMwIiAvPgogICAgICA8
+dnN0ZW0gcG9zPSIxNDAiIHdpZHRoPSIxMjczIiAv
+PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExp
+c3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

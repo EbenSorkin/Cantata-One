@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="1539"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="262" y="679" type="line" name="hr01"/>
+      <point x="255" y="601" type="line"/>
+      <point x="1296" y="601" type="line"/>
+      <point x="1303" y="679" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="418" type="line"/>
+      <point x="235" y="340" type="line"/>
+      <point x="1276" y="340" type="line"/>
+      <point x="1283" y="418" type="line"/>
+    </contour>
+    <contour>
+      <point x="1384" y="1470" type="line" name="hr02"/>
+      <point x="1274" y="1466" type="line"/>
+      <point x="832" y="677" type="line"/>
+      <point x="888" y="689" type="line"/>
+      <point x="435" y="1481" type="line" name="hr03"/>
+      <point x="117" y="1482" type="line"/>
+      <point x="715" y="480" type="line"/>
+      <point x="811" y="463" type="line"/>
+    </contour>
+    <contour>
+      <point x="1524" y="1452" type="line" name="hr04"/>
+      <point x="1524" y="1530" type="line"/>
+      <point x="1082" y="1530" type="line"/>
+      <point x="1082" y="1452" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="1530" type="line"/>
+      <point x="10" y="1452" type="line"/>
+      <point x="654" y="1452" type="line"/>
+      <point x="654" y="1530" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="78" type="line"/>
+      <point x="501" y="0" type="line" name="hr05"/>
+      <point x="1068" y="0" type="line"/>
+      <point x="1068" y="78" type="line" name="hr06"/>
+    </contour>
+    <contour>
+      <point x="649" y="59" type="line"/>
+      <point x="919" y="59" type="line"/>
+      <point x="919" y="705" type="line"/>
+      <point x="650" y="704" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>1103</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>438</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjU5IiB3aWR0aD0iMTkiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjM0MCIgd2lkdGg9Ijc4IiAvPgog
+ICAgICA8aHN0ZW0gcG9zPSI2MDEiIHdpZHRoPSI3
+OCIgLz4KICAgICAgPGhzdGVtIHBvcz0iMTQ1MiIg
+d2lkdGg9Ijc4IiAvPgogICAgICA8dnN0ZW0gcG9z
+PSI2NDkiIHdpZHRoPSIyNjkiIC8+CiAgICA8L2hp
+bnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRhZz0i
+aHIwMiI+CiAgICAgIDxoc3RlbSBwb3M9IjY4OSIg
+d2lkdGg9IjE1IiAvPgogICAgICA8aHN0ZW0gcG9z
+PSIxNDUyIiB3aWR0aD0iMTYiIC8+CiAgICAgIDx2
+c3RlbSBwb3M9IjY0OSIgd2lkdGg9IjI2OSIgLz4K
+ICAgIDwvaGludHNldD4KICAgIDxoaW50c2V0IHBv
+aW50VGFnPSJocjAzIj4KICAgICAgPGhzdGVtIHBv
+cz0iMTQ1MiIgd2lkdGg9IjI5IiAvPgogICAgICA8
+dnN0ZW0gcG9zPSI2NDkiIHdpZHRoPSIyNjkiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwNCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjU5IiB3aWR0aD0iMTkiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjE0NTIiIHdpZHRoPSI3OCIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iNjQ5IiB3aWR0aD0i
+MjY5IiAvPgogICAgPC9oaW50c2V0PgogICAgPGhp
+bnRzZXQgcG9pbnRUYWc9ImhyMDUiPgogICAgICA8
+aHN0ZW0gcG9zPSIwIiB3aWR0aD0iNzgiIC8+CiAg
+ICAgIDx2c3RlbSBwb3M9IjY0OSIgd2lkdGg9IjI2
+OSIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50
+c2V0IHBvaW50VGFnPSJocjA2Ij4KICAgICAgPGhz
+dGVtIHBvcz0iNTkiIHdpZHRoPSIxOSIgLz4KICAg
+ICAgPGhzdGVtIHBvcz0iNjAxIiB3aWR0aD0iNzgi
+IC8+CiAgICAgIDx2c3RlbSBwb3M9IjY0OSIgd2lk
+dGg9IjI2OSIgLz4KICAgIDwvaGludHNldD4KICA8
+L2hpbnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

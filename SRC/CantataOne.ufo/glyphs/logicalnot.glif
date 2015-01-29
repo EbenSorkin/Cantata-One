@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="1536"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="310" y="645" type="line" name="hr00"/>
+      <point x="310" y="545" type="line"/>
+      <point x="1179" y="545" type="line"/>
+      <point x="1179" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="1075" y="227" type="line"/>
+      <point x="1179" y="227" type="line"/>
+      <point x="1179" y="645" type="line"/>
+      <point x="1075" y="645" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjU0NSIgd2lkdGg9IjEwMCIgLz4KICAgICAg
+PHZzdGVtIHBvcz0iMTA3NSIgd2lkdGg9IjEwNCIg
+Lz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRM
+aXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

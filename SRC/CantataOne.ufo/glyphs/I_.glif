@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="854"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="95" y="78" type="line" name="hr01"/>
+      <point x="95" y="0" type="line" name="hr02"/>
+      <point x="759" y="0" type="line"/>
+      <point x="759" y="78" type="line" name="hr03"/>
+    </contour>
+    <contour>
+      <point x="95" y="1530" type="line"/>
+      <point x="95" y="1452" type="line"/>
+      <point x="759" y="1452" type="line"/>
+      <point x="759" y="1530" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="59" type="line"/>
+      <point x="562" y="59" type="line"/>
+      <point x="562" y="1502" type="line" name="hr04"/>
+      <point x="293" y="1501" type="line"/>
+    </contour>
+    <contour>
+      <point x="759" y="0" type="move" name="_og"/>
+    </contour>
+    <contour>
+      <point x="428" y="1600" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>2648</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjU5IiB3aWR0aD0iMTkiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjE0NTIiIHdpZHRoPSI3OCIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iMjkyIiB3aWR0aD0i
+MjY5IiAvPgogICAgPC9oaW50c2V0PgogICAgPGhp
+bnRzZXQgcG9pbnRUYWc9ImhyMDIiPgogICAgICA8
+aHN0ZW0gcG9zPSIwIiB3aWR0aD0iNzgiIC8+CiAg
+ICAgIDxoc3RlbSBwb3M9IjE0NTIiIHdpZHRoPSI3
+OCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjkyIiB3
+aWR0aD0iMjY5IiAvPgogICAgPC9oaW50c2V0Pgog
+ICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMiPgog
+ICAgICA8aHN0ZW0gcG9zPSI1OSIgd2lkdGg9IjE5
+IiAvPgogICAgICA8aHN0ZW0gcG9zPSIxNDUyIiB3
+aWR0aD0iNzgiIC8+CiAgICAgIDx2c3RlbSBwb3M9
+IjI5MiIgd2lkdGg9IjI2OSIgLz4KICAgIDwvaGlu
+dHNldD4KICAgIDxoaW50c2V0IHBvaW50VGFnPSJo
+cjA0Ij4KICAgICAgPGhzdGVtIHBvcz0iNTkiIHdp
+ZHRoPSIxOSIgLz4KICAgICAgPGhzdGVtIHBvcz0i
+MTQ1MiIgd2lkdGg9IjQ5IiAvPgogICAgICA8dnN0
+ZW0gcG9zPSIyOTIiIHdpZHRoPSIyNjkiIC8+CiAg
+ICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

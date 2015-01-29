@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="1539"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="1408" y="1470" type="line" name="hr01"/>
+      <point x="1298" y="1466" type="line"/>
+      <point x="865" y="284" type="line"/>
+      <point x="888" y="289" type="line"/>
+      <point x="426" y="1474" type="line" name="hr02"/>
+      <point x="111" y="1476" type="line"/>
+      <point x="761" y="-20" type="line"/>
+      <point x="846" y="-20" type="line"/>
+    </contour>
+    <contour>
+      <point x="1555" y="1452" type="line" name="hr03"/>
+      <point x="1555" y="1530" type="line"/>
+      <point x="1105" y="1530" type="line"/>
+      <point x="1105" y="1452" type="line"/>
+    </contour>
+    <contour>
+      <point x="-13" y="1530" type="line"/>
+      <point x="-13" y="1452" type="line"/>
+      <point x="627" y="1452" type="line"/>
+      <point x="627" y="1530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjEiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjE0NTIiIHdpZHRoPSIxNiIgLz4K
+ICAgICAgPHZzdGVtIHBvcz0iLTEzIiB3aWR0aD0i
+MTU2OCIgLz4KICAgIDwvaGludHNldD4KICAgIDxo
+aW50c2V0IHBvaW50VGFnPSJocjAyIj4KICAgICAg
+PGhzdGVtIHBvcz0iMSIgd2lkdGg9Ii0yMSIgLz4K
+ICAgICAgPGhzdGVtIHBvcz0iMTQ1MiIgd2lkdGg9
+IjIzIiAvPgogICAgICA8dnN0ZW0gcG9zPSItMTMi
+IHdpZHRoPSIxNTY4IiAvPgogICAgPC9oaW50c2V0
+PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDMi
+PgogICAgICA8aHN0ZW0gcG9zPSIxIiB3aWR0aD0i
+LTIxIiAvPgogICAgICA8aHN0ZW0gcG9zPSIxNDUy
+IiB3aWR0aD0iNzgiIC8+CiAgICAgIDx2c3RlbSBw
+b3M9Ii0xMyIgd2lkdGg9IjE1NjgiIC8+CiAgICA8
+L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

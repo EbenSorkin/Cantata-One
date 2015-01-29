@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="1706"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="472" y="945" type="line" name="hr01"/>
+      <point x="472" y="1023" type="line"/>
+      <point x="0" y="1023" type="line"/>
+      <point x="0" y="945" type="line"/>
+    </contour>
+    <contour>
+      <point x="1739" y="945" type="line"/>
+      <point x="1739" y="1023" type="line"/>
+      <point x="1393" y="1023" type="line"/>
+      <point x="1393" y="945" type="line"/>
+    </contour>
+    <contour>
+      <point x="584" y="-20" type="line"/>
+      <point x="950" y="892" type="line"/>
+      <point x="913" y="1023" type="line"/>
+      <point x="582" y="198" type="line"/>
+      <point x="663" y="239" type="line"/>
+      <point x="333" y="988" type="line" name="hr02"/>
+      <point x="51" y="985" type="line" name="hr03"/>
+      <point x="505" y="-20" type="line"/>
+    </contour>
+    <contour>
+      <point x="1263" y="-20" type="line"/>
+      <point x="1635" y="964" type="line" name="hr04"/>
+      <point x="1560" y="1001" type="line"/>
+      <point x="1258" y="201" type="line"/>
+      <point x="1336" y="241" type="line"/>
+      <point x="983" y="1023" type="line" name="hr05"/>
+      <point x="913" y="1023" type="line"/>
+      <point x="840" y="722" type="line"/>
+      <point x="1183" y="-20" type="line"/>
+    </contour>
+    <contour>
+      <point x="906" y="1200" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>944</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>-20</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>362</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>176</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjEiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9Ijk0NSIgd2lkdGg9Ijc4IiAvPgog
+ICAgICA8dnN0ZW0gcG9zPSIwIiB3aWR0aD0iNDcy
+IiAvPgogICAgICA8dnN0ZW0gcG9zPSIxMzkzIiB3
+aWR0aD0iMzQ2IiAvPgogICAgPC9oaW50c2V0Pgog
+ICAgPGhpbnRzZXQgcG9pbnRUYWc9ImhyMDIiPgog
+ICAgICA8aHN0ZW0gcG9zPSIxIiB3aWR0aD0iLTIx
+IiAvPgogICAgICA8aHN0ZW0gcG9zPSI5NDUiIHdp
+ZHRoPSI0MSIgLz4KICAgICAgPHZzdGVtIHBvcz0i
+MCIgd2lkdGg9IjQ3MiIgLz4KICAgICAgPHZzdGVt
+IHBvcz0iMTM5MyIgd2lkdGg9IjM0NiIgLz4KICAg
+IDwvaGludHNldD4KICAgIDxoaW50c2V0IHBvaW50
+VGFnPSJocjAzIj4KICAgICAgPGhzdGVtIHBvcz0i
+MSIgd2lkdGg9Ii0yMSIgLz4KICAgICAgPGhzdGVt
+IHBvcz0iOTg1IiB3aWR0aD0iMzgiIC8+CiAgICAg
+IDx2c3RlbSBwb3M9IjAiIHdpZHRoPSI0NzIiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjEzOTMiIHdpZHRo
+PSIzNDYiIC8+CiAgICA8L2hpbnRzZXQ+CiAgICA8
+aGludHNldCBwb2ludFRhZz0iaHIwNCI+CiAgICAg
+IDxoc3RlbSBwb3M9IjEiIHdpZHRoPSItMjEiIC8+
+CiAgICAgIDxoc3RlbSBwb3M9Ijk2NCIgd2lkdGg9
+IjU5IiAvPgogICAgICA8dnN0ZW0gcG9zPSIwIiB3
+aWR0aD0iNDcyIiAvPgogICAgICA8dnN0ZW0gcG9z
+PSIxMzkzIiB3aWR0aD0iMzQ2IiAvPgogICAgPC9o
+aW50c2V0PgogICAgPGhpbnRzZXQgcG9pbnRUYWc9
+ImhyMDUiPgogICAgICA8aHN0ZW0gcG9zPSIxIiB3
+aWR0aD0iLTIxIiAvPgogICAgICA8aHN0ZW0gcG9z
+PSI5NDUiIHdpZHRoPSI3OCIgLz4KICAgICAgPHZz
+dGVtIHBvcz0iMCIgd2lkdGg9IjQ3MiIgLz4KICAg
+ICAgPHZzdGVtIHBvcz0iMTM5MyIgd2lkdGg9IjM0
+NiIgLz4KICAgIDwvaGludHNldD4KICA8L2hpbnRT
+ZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>
